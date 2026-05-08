@@ -57,6 +57,6 @@ salesforce-training/
 
 ## 👨‍💻 Maintained By
 
-**Bhargav Rama Prasad**  
+**Bhargava Rama Prasad**  
 B.Tech CSE  
 Vishnu Institute of Technology
