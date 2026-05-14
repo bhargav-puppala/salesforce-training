@@ -1,58 +1,117 @@
-# Week 1 - Light Completion Sprint
+# 🚀 Salesforce Training Journey
 
-## Modules Completed
-
-### 1. Search Solution Basics
-Learned how Salesforce search helps users quickly find records and improve productivity.
+Salesforce · CRM · Trailhead · Apex · Flows · Automation
 
 ---
 
-### 2. Agentforce 360 Platform Events Basics
-Learned how platform events help systems communicate automatically using event-driven architecture.
+## 📌 About
+
+This repository documents my Salesforce learning journey during the Salesforce Summer Program.
+
+It contains:
+- daily learning notes
+- Trailhead progress
+- screenshots
+- assignments
+- automation concepts
+- Apex basics
+- practice work
+- reflections and observations
+
+The repository is organized week-wise and day-wise to track learning progress consistently.
 
 ---
 
-### 3. Command-Line Interface
-Learned why developers use CLI tools for faster development and project management.
+## 🗂️ Repository Structure
+
+```bash
+salesforce-training/
+│
+├── Week1/
+│   ├── day1-crm-basics/
+│   ├── day2-platform-basics/
+│   ├── day3-data-modeling/
+│   ├── day4-flow-builder/
+│   ├── day5-apex-introduction/
+│   ├── day6-triggers-soql/
+│   └── light-completion-day/
+│
+└── README.md
+```
 
 ---
 
-# Platform Event Thinking
+## 📚 Current Progress
 
-Example:
-After a student completes registration, notifications can automatically be sent to:
-- student
-- faculty
-- admin department
+### Week 1
 
-This helps multiple systems and users react instantly to one event.
-
----
-
-# CLI Reflection
-
-Developers prefer command-line tools because they help automate tasks and speed up development work. CLI tools are also useful for managing projects and deployments more efficiently.
+#### Day 1 - CRM Basics
+- Introduction to Salesforce
+- CRM concepts
+- Accounts, Contacts and Opportunities
+- Trailhead Playground setup
 
 ---
 
-# Search Reflection
-
-Fast and accurate search is important because companies store large amounts of data. Good search functionality helps users save time and quickly access required information.
-
----
-
-# One Doubt / Question
-
-How do large companies manage very complex automation and integrations inside Salesforce without affecting system performance?
+#### Day 2 - Platform Basics
+- Salesforce Platform
+- Apps, Objects and Tabs
+- Configuration vs Coding
+- Multi-tenant architecture
 
 ---
 
-# Screenshots
-
-(Add Trailhead progress screenshots here)
+#### Day 3 - Data Modeling
+- Objects, Fields and Records
+- Relationships
+- Formula Fields
+- Validation Rules
 
 ---
 
-# My Learnings
+#### Day 4 - Flow Builder
+- Business Automation
+- Screen Flows
+- Record Triggered Flows
+- Workflow automation
 
-Today I got a basic understanding of platform events, CLI tools and enterprise search systems in Salesforce.
+---
+
+#### Day 5 - Apex Introduction
+- Apex basics
+- Variables and conditions
+- Flow vs Apex
+- Business logic thinking
+
+---
+
+#### Day 6 - SOQL and Triggers
+- SOQL basics
+- Apex Triggers
+- Event-driven systems
+- Query thinking
+
+---
+
+#### Light Completion Sprint
+- Platform Events
+- Salesforce CLI
+- Search Solution Basics
+
+---
+
+## 🎯 Learning Goals
+
+- Understand Salesforce fundamentals
+- Learn CRM and enterprise system concepts
+- Gain hands-on Salesforce platform experience
+- Understand automation and Apex development
+- Build consistent learning and documentation habits
+
+---
+
+## 👨‍💻 Maintained By
+
+**Bhargava Rama Prasad**  
+B.Tech CSE  
+Vishnu Institute of Technology
