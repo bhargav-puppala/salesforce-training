@@ -182,7 +182,7 @@ Enterprise systems need event-driven behavior because actions should happen auto
 
 # Screenshots
 
-(Add Trailhead screenshots here)
+
 
 ---
 
